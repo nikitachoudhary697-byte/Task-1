@@ -1,11 +1,11 @@
 Python Programming Internship - Task 1
 Completed:
-Sum of Two Numbers
-Odd or Even Checker
-Factorial
-Fibonacci Series
-Reverse String
-Palindrome Check
-Leap Year Check
-Armstrong Number
+1. Sum of Two Numbers
+2. Odd or Even Checker
+3. Factorial
+4. Fibonacci Series
+5. Reverse String
+6. Palindrome Check
+7. Leap Year Check
+8. Armstrong Number
 Language: Python
